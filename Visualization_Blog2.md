@@ -17,3 +17,5 @@ I created a new plot based off of my old bar plot because it was made up primari
 ### Attempt to create a visual for both age and number of shootings
 ![Uncertainty of Police Shootings Plot 2](images/uncertainty_plot2_1.png)
 
+I also made this plot to include the uncertainty with age, but I thought it was confusing to look at. However, I think it capture the uncertainty more accurately since the uncertain values are somewhere in between the axes that the error bar creates.
+
