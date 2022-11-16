@@ -12,7 +12,7 @@ I am an Anthropology and International Studies major, and I just added a minor i
 ### Short Form Blogs
 [Short Form Blog 1](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/SF_Blog1.md)
 
-[Short Form Blog 2](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/SF_Blog2.md)
+[Short Form Blog 2: Many ways to see it](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/SF_Blog2.md)
 
 ### Visualization Blogs
 [Visualization Blog 1: Just the Basics](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Visualization_Blog1.md)
