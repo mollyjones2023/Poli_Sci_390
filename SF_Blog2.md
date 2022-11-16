@@ -21,9 +21,12 @@ In this last plot, I decided to compare “Eastern” and “Western” countrie
 
 ### Bibliography
 ile., See AUTHORS. 2022. Paletteer: Comprehensive Collection of Color Palettes. [https://github.com/EmilHvitfeldt/paletteer](https://github.com/EmilHvitfeldt/paletteer).
+
 Pedersen, Thomas Lin. 2022. Patchwork: The Composer of Plots. [https://CRAN.R-project.org/package=patchwork](https://CRAN.R-project.org/package=patchwork).
 Slowikowski, Kamil. 2021. Ggrepel: Automatically Position Non-Overlapping Text Labels with Ggplot2. [https://github.com/slowkow/ggrepel](https://github.com/slowkow/ggrepel).
+
 Wickham, Hadley. 2022. Tidyverse: Easily Install and Load the Tidyverse. [https://CRAN.R-project.org/package=tidyverse](https://CRAN.R-project.org/package=tidyverse).
+
 Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell,
 Nazifa Alizada, David Altman, Michael Bernhard, Agnes Cornell, M. Steven Fish, Lisa
 Gastaldi, Haakon Gjerløw, Adam Glynn, Allen Hicken, Garry Hindle, Nina Ilchenko, Joshua
@@ -33,12 +36,13 @@ von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, A
 Sundström, Eitan Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel Ziblatt. 2021.
 "V-Dem [Country–Year/Country–Date] Dataset v11.1" Varieties of Democracy (V-Dem)
 Project. https://doi.org/10.23696/vdemds21.
-and:
+
 Pemstein, Daniel, Kyle L. Marquardt, Eitan Tzelgov, Yi-ting Wang, Juraj Medzihorsky,
 Joshua Krusell, Farhad Miri, and Johannes von Römer. 2021. “The V-Dem Measurement
 Model: Latent Variable Analysis for Cross-National and Cross-Temporal Expert-Coded
 Data”. V-Dem Working Paper No. 21. 6th edition. University of Gothenburg: Varieties of
 Democracy Institute.
+
 Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell,
 David Altman, Michael Bernhard, Agnes Cornell, M. Steven Fish, Lisa Gastaldi, Haakon
 Gjerløw, Adam Glynn, Allen Hicken, Anna Lührmann, Seraphine F. Maerz, Kyle L.
