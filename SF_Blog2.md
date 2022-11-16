@@ -1,4 +1,4 @@
-# Short Form Blog 2
+# Short Form Blog 2: Many ways to see it
 
 The variables “power distributed by socio-economic position” and “freedom of discussion for women” are scaled by an index of 0 to 4, 4 meaning most distributed and most freedom respectively.  “Power distributed by socio-economic position” is determined by “attributes of wealth, occupation, or other economic circumstances such as owning property” and the political effects of inequality. “Freedom of discussion for women” is measured by “the extent to which women are able to engage in private discussions, particularly on political issues, in private homes and public spaces (restaurants, public transportation, sports events, work, etc.) without fear of harassment by other members of the polity or the public authorities.” Both of these make sense in determining the index. Still, I’m not sure how these would be measured since they appear to be subjective. I also think that for “freedom of discussion for women”, it should be more specific because there can be different spaces which may be more free for discussion. 
 
