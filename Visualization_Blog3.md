@@ -9,4 +9,6 @@
 - [Location Affordability Index](https://hudgis-hud.opendata.arcgis.com/datasets/location-affordability-index-v-3/explore?location=12.129159%2C0.315617%2C1.93)
 - [Chicago Park Boundaries](https://data.cityofchicago.org/Parks-Recreation/Parks-Chicago-Park-District-Park-Boundaries-curren/ej32-qgdr)
 
-These data sets could be useful for answering my questions because I believe that understanding the layout of new housing projects and parks in Chicago as when as general demographic and economic details will allow me to explore the economic and social relationship of the number and types of housing developments and parks in each neighborhood or area.  
+These data sets could be useful for answering my questions because it will give me an understanding of the layout of new housing projects and parks in Chicago as when as general demographic and economic details. It will allow me to explore the economic and social relationship of the number and types of housing developments and parks in each neighborhood or area.
+
+
