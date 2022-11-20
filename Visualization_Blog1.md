@@ -1,5 +1,5 @@
 # Visualization Blog 1: Just the Basics + Controversy
-### Theme: CONTROVERSY!!! CONTENTION!!!
+## Theme: CONTROVERSY!!! CONTENTION!!!
 
 ### #1) A Visualization I Really Like:
 ![Icarceration Rates Across Different Countries](images/incarceration_global.png)
