@@ -3,8 +3,6 @@
 The variables “power distributed by socio-economic position” and “freedom of discussion for women” are scaled by an index of 0 to 4, 4 meaning most distributed and most freedom respectively.  “Power distributed by socio-economic position” is determined by “attributes of wealth, occupation, or other economic circumstances such as owning property” and the political effects of inequality. “Freedom of discussion for women” is measured by “the extent to which women are able to engage in private discussions, particularly on political issues, in private homes and public spaces (restaurants, public transportation, sports events, work, etc.) without fear of harassment by other members of the polity or the public authorities.” Both of these make sense in determining the index. Still, I’m not sure how these would be measured since they appear to be subjective. I also think that for “freedom of discussion for women”, it should be more specific because there can be different spaces which may be more free for discussion. 
 <br>
 <br>
-<br>
-<br>
 
 ![vdem line plot](images/vdem_line.png)
 
@@ -20,7 +18,6 @@ In this next plot, I displayed 2 maps for each variable. I chose to use the year
 <br>
 <br>
 <br>
-<br>
 
 ![vdem dot plot](images/vdem_dot.png)
 
@@ -28,13 +25,10 @@ This scatterplot displays the somewhat loose positive relationship between the t
 <br>
 <br>
 <br>
-<br>
 
 ![vdem box plot](images/vdem_box.png)
 
 In this last plot, I decided to compare “Eastern” and “Western” countries in Europe and the variables for each since this is an interesting sociopolitical divide between closely positioned countries. In the East, the two variables’ indexes appear to be about the same. In the West, both of the variables have a higher index than in the East, and the index for “freedom of discussion for women” is skewed higher than that of “power distributed by socio-economic position”. 
-<br>
-<br>
 <br>
 <br>
 
