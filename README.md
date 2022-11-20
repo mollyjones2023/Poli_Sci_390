@@ -15,8 +15,8 @@ I am an Anthropology and International Studies major, and I just added a minor i
 [Short Form Blog 2: Many ways to see it](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/SF_Blog2.md)
 
 ### Visualization Blogs
-[Visualization Blog 1: Just the Basics](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Visualization_Blog1.md)
+[Visualization Blog 1: Just the Basics + Controversy](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Visualization_Blog1.md)
 
-[Visualization Blog 2: Visualizations from Popular Sources](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Visualization_Blog2.md)
+[Visualization Blog 2: Adding Uncertainty](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Visualization_Blog2.md)
 
-[Visualization Blog 3: Interactive Visualizations, Big Data, and Qualitative Data](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Visualization_Blog3.md)
+[Visualization Blog 3: Final project proposal](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Visualization_Blog3.md)
