@@ -16,7 +16,7 @@ These data sets could be useful for answering my questions because it will give 
 ![Map example 1](images/map_ex.png)
 ![Map example 2](images/map_ex2.png)
 
-I like the use of different sizes for points in these visualizations which I can use for counts in my visual. In the second visualization, it distinguishes characterists of the map with different colors of area which I think could be useful in my final visual. I'm thinking of using fill to distinguish average income of certain areas of Chicago.
+I like the use of different sizes for points in these visualizations which I can use for counts in my visual. In the second visualization, it distinguishes characterists of the map with different colors of area which I think could be useful in my final visual. I'm thinking of using fill to distinguish median income of certain areas of Chicago.
 
 ![Frequency example](images/frequency_ex.png)
 
