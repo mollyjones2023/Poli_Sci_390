@@ -1,4 +1,4 @@
-## Visualization Blog 1: Just the Basics + Controversy
+# Visualization Blog 1: Just the Basics + Controversy
 ### Theme: CONTROVERSY!!! CONTENTION!!!
 
 ### #1) A Visualization I Really Like:
