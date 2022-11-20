@@ -9,20 +9,16 @@ The variables “power distributed by socio-economic position” and “freedom 
 In this first plot of indexes over time, it is clear that both variables’ indexes are increasing over time, although “freedom of discussion for women” appears to be increasing at a faster rate. I think time is important to measure these two variables since often we see progress with time. It seems that the progress of each is somewhat related but not completely since there is a difference in their changes. In general, it seems to be if freedom of discussion increase, power distribution also increases.
 <br>
 <br>
-<br>
-<br>
 
 ![vdem map plot](images/vdem_map.png)
 
 In this next plot, I displayed 2 maps for each variable. I chose to use the year 2021 since it is the most recent data and to display maps of the indexes to see how they vary by country. Overall, indexes vary greatly across countries. There is some overlap between the two plots where the indexes for each variable are the same in the same country, but there were many differences such as the country Mongolia which seems to have a low index for “power distributed by socio-economic position” but high for “freedom of discussion for women”. Some countries follow a similar pattern of the variables indexes being the same, but other countries display the opposite suggesting that progress in these variables isn’t necessarily the same based on differing contexts. 
 <br>
 <br>
-<br>
 
 ![vdem dot plot](images/vdem_dot.png)
 
 This scatterplot displays the somewhat loose positive relationship between the two variables. I chose to group by year for every 20 years to see if year follows the pattern of this relationship. Based on the first plot, I expected the colors to be clustered together since they represent the years in which the index was taken. However, there is a lot of mixing. I labeled a few points that I thought were complete outliers to the pattern of a higher index with time and a relationship between the two variables being compared.
-<br>
 <br>
 <br>
 
