@@ -22,3 +22,6 @@ I like the use of different sizes for points in these visualizations which I can
 
 I also like this plot because I think it could be useful for comparing counts of housing and parks and average incomes per area, but I'm unsure of how to incorporate this into a map design. Maybe I can make something like this for additional details on my main visual.
 
+**Citations**
+[https://www.e-education.psu.edu/geog486/node/648](https://www.e-education.psu.edu/geog486/node/648)
+[https://keen.io/blog/data-visualization-trends-in-2019-an-update/](https://keen.io/blog/data-visualization-trends-in-2019-an-update/)
