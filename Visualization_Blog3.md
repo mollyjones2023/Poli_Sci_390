@@ -11,4 +11,6 @@
 
 These data sets could be useful for answering my questions because it will give me an understanding of the layout of new housing projects and parks in Chicago as when as general demographic and economic details. It will allow me to explore the economic and social relationship of the number and types of housing developments and parks in each neighborhood or area.
 
-
+![Map example 1](images/map_ex.png)
+![Map example 2](images/map_ex2.png)
+![Frequency example](images/frequency_ex.png)
