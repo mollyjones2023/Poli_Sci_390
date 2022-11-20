@@ -1,4 +1,4 @@
-# Visualization Blog 2: Visualizations from Popular Sources
+# Visualization Blog 2: Adding Uncertainty
 
 ## Plotting Uncertainty
 
