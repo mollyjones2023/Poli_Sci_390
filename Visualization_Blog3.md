@@ -9,7 +9,15 @@
 - [Location Affordability Index](https://hudgis-hud.opendata.arcgis.com/datasets/location-affordability-index-v-3/explore?location=12.129159%2C0.315617%2C1.93)
 - [Chicago Park Boundaries](https://data.cityofchicago.org/Parks-Recreation/Parks-Chicago-Park-District-Park-Boundaries-curren/ej32-qgdr)
 
-These data sets could be useful for answering my questions because it will give me an understanding of the layout of new housing projects and parks in Chicago as when as general demographic and economic details. It will allow me to explore the economic and social relationship of the number and types of housing developments and parks in each neighborhood or area.
+These data sets could be useful for answering my questions because it will give me an understanding of the layout of new housing projects and parks in Chicago as when as general demographic and economic details. This will allow me to explore the economic and social relationship of the number and types of housing developments and parks in each neighborhood or area.
+
+### Points I want to cover in my visualizations
+- The distribution of parks and housing units through out Chicago
+- The median incomes of each neighborhood in Chicago
+- The ratio of affordable housing complexes to parks in each area
+- Spending on housing projects and parks
+- Demographics in neighborhoods (ethnicity, race, religion)
+- The number of affordable housing qualifying individuals to the number of units available
 
 ### Visualization inspiration
 
@@ -20,7 +28,7 @@ I like the use of different sizes for points in these visualizations which I can
 
 ![Frequency example](images/frequency_ex.png)
 
-I also like this plot because I think it could be useful for comparing counts of housing and parks and average incomes per area, but I'm unsure of how to incorporate this into a map design. Maybe I can make something like this for additional details on my main visual.
+I also like this plot because I think it could be useful for comparing counts of housing and parks and average incomes per area.
 
 **Citations**
 - [https://www.e-education.psu.edu/geog486/node/648](https://www.e-education.psu.edu/geog486/node/648)
