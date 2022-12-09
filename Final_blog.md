@@ -3,6 +3,9 @@
 ### Introduction
 Chicago is a diverse yet segregated city. Not only has this segregation had an impact on the economic well-being of each community but has left an impact on the housing and spatial environment of the city. In an effort to provide support and opportunity for lower-income individuals, the city of Chicago and other organizations have commissioned affordable housing developments for qualifying individuals. With parks often posed as a threat of gentrification and green spaces seen as more desirable (Rigolon and Christensen), I think it would be interesting to explore how parks and affordable housing units relate to the city's community by asking the question: How do housing units and parks relate to the social and economic inequality in Chicago?
 
+### Data
+The data used come from the Chicago Data Portal. These include [Census Data - Selected socioeconomic indicators in Chicago, 2008 – 2012](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2), [Parks - Chicago Park District Park Boundaries (current)](https://data.cityofchicago.org/Parks-Recreation/Parks-Chicago-Park-District-Park-Boundaries-curren/ej32-qgdr), and [Parks - Chicago Park District Facilities (current)](https://data.cityofchicago.org/Parks-Recreation/Parks-Chicago-Park-District-Facilities-current-/5yyk-qt9y).
+
 ### Plot 1-1
 ![map plot 1](images/map1_final.png)
 
