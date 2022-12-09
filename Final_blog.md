@@ -8,12 +8,12 @@ The data used come from the Chicago Data Portal. These include [Census Data - Se
 
 ## Visualizations
 ### Plot 1-1
-![map plot 1](images/map1_final.png)
+![map plot 1](images/map_1_final.png)
 
 It appears that number of units does not impact the number of parks in an area. Most housing units seem to be in the center and the north side of the city.
 
 ### Plot 1-2
-![map plot 2](images/map2_final.png)
+![map plot 2](images/map_2_final.png)
 
 There seem to be parks distributed well throughout each area. However, there are a areas where the percentage of household poverty is the highest and there are not too many parks present as compared to other areas. There seem to be affordable housing units in the areas with a higher percentage of household poverty in the center of the city but not in the areas farther south.
 
