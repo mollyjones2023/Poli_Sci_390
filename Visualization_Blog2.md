@@ -12,5 +12,5 @@ I chose to use geom_ribbon to visualize uncertainty because the line is continuo
 ### Plot 2
 ![Uncertainty of Police Shootings Plot](images/uncertainty_plot_large.png)
 
-I created a new plot based off of my old bar plot because it was made up primarily qualitative vales, and I didn't understand how to make an error bar for any other form that would work with that section of the data besides a bar plot. I used an error bar to display the error because there are individual points in this plot so the error bar capture the uncertainty of each individual point. I made the bar red to distinguish it from the point and made the ends wider to better see them. I also made the image wider so that it didn't look so cluttered. 
+I created a new plot based off of my old bar plot because it was made up primarily qualitative vales, and I didn't understand how to make an error bar for any other form that would work with that section of the data besides a bar plot. I used an error bar to display the error because it made the most sense to use on a bar plot. I made the bar red to distinguish it from the bars and made the ends narrower so they would not ooverwhelm the plot. I also made the image wider so that it didn't look so cluttered. 
 
