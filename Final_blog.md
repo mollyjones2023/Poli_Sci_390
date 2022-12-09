@@ -19,7 +19,7 @@ This next plot displays the percentage of household poverty by neighborhood. The
 This next plot displays the number of units from each affordable housing property type and the different colors in the plot represent different community areas. ARO is the government-provided affordable housing and it is clear that it does not make up the majority of affordable housing units in Chicago. The types of property units seem to be somewhat evenly distributed across each part of the city.
 
 ### Plot 2-2
-![community and property type plot](images/community_type_plot.png)
+![community and property type plot](images/community_type.png)
 
 This plot gives a closer look at where these different types of units are located throughout the city. 
 
@@ -59,7 +59,7 @@ This next plot focuses on senior and intergenerational affordable housing and di
 In this plot, there is a slight positive relationship between the number of units for senior and intergenerational affordable housing and the number of acres of park space. 
 
 ### Plot 6-3
-![seniors and parks plot](images/acres_senior.png)
+![seniors and parks plot](images/senior_acres.png)
 
 However, there does not seem to be a relationship between the number of park acres and the percentage of people under 18 and over 65. 
 
