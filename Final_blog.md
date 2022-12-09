@@ -1,4 +1,4 @@
-
+## Final blog: Housing and Spacial Inequality in Chicago
 ![map plot 1](images/map1_final.png)
 ![map plot 2](images/map2_final.png)
 
