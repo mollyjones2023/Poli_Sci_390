@@ -17,7 +17,7 @@ This first plot is aimed at displaying where the affordable housing units and pa
 This next plot displays the percentage of household poverty by neighborhood. There seem to be parks distributed well throughout each area. However, there are a couple of areas where the percentage of household poverty is the highest and there are not too many parks present as compared to other areas. Comparing this plot to the first, there seem to be affordable housing units in the areas with a higher percentage of household poverty in the center of the city but not in the areas farther south.
 
 ### Plot 2-1
-![property type plot](images/property_type_plot.png)
+![property type plot](images/property_type.png)
 
 This next plot displays the number of units from each affordable housing property type and the different colors in the plot represent different community areas. ARO is the government-provided affordable housing and it is clear that it does not make up the majority of affordable housing units in Chicago. The types of property units seem to be somewhat evenly distributed across each part of the city.
 
