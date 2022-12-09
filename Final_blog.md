@@ -1,4 +1,4 @@
-# Final blog: Housing and Spatial Inequality in Chicago (Designer)
+# Final blog (designer): Housing and Spatial Inequality in Chicago
 
 ## Introduction
 Chicago is a diverse yet segregated city. Not only has this segregation had an impact on the economic well-being of each community but has left an impact on the housing and spatial environment of the city. In an effort to provide support and opportunity for lower-income individuals, the city of Chicago and other organizations have commissioned affordable housing developments for qualifying individuals. With parks often posed as a threat of gentrification and green spaces seen as more desirable (Rigolon and Christensen), I think it would be interesting to explore how parks and affordable housing units relate to the city's community by asking the question: How do housing units and parks relate to the social and economic inequality in Chicago?
@@ -93,5 +93,6 @@ The distribution of units is similar for all levels of the hardship index, with 
 The distribution of park acreage throughout all the levels of the hardship index tends to be similar.
 
 ## Conclusion
+There does not appear to be that strong of a relationship of the locations of affordable housing and parks with social and economic inequality in the city from the variables I explored. More affordable housing units seem to tend to be in areas with more overcrowding, there are less affordable units and parks in areas farther South in Chicago, and the type of housing differs in neighborhoods with different indexes of hardship. More exploration will have to be done to help answer my question, but these visualizations can provide a base to understand the distribution of affordable housing and parks in Chicago.
 
 
