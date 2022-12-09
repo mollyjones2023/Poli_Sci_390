@@ -31,4 +31,4 @@ This first plot displays the distri
 ![desnity units and acres plot](images/unit_acres.png)
 
 ![welfare index and housing units](images/index_units.png)
-![welfare index and parks](images/index_parks.png)
+![welfare index and parks](images/index_parks.png) 
