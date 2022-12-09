@@ -6,6 +6,7 @@ Chicago is a diverse yet segregated city. Not only has this segregation had an i
 ### Data
 The data used come from the Chicago Data Portal. These include [Census Data - Selected socioeconomic indicators in Chicago, 2008 – 2012](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2), [Parks - Chicago Park District Park Boundaries (current)](https://data.cityofchicago.org/Parks-Recreation/Parks-Chicago-Park-District-Park-Boundaries-curren/ej32-qgdr), and [Parks - Chicago Park District Facilities (current)](https://data.cityofchicago.org/Parks-Recreation/Parks-Chicago-Park-District-Facilities-current-/5yyk-qt9y).
 
+## Visualizations
 ### Plot 1-1
 ![map plot 1](images/map1_final.png)
 
