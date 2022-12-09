@@ -24,5 +24,5 @@ I am an Anthropology and International Studies major, and I just added a minor i
 ### Final blog
 [Final blog: Housing and Spatial Inequality in Chicago](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Final_blog.md)
 
-### Package Bibliography
-[Bibliography](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Bibliography.pdf)
+### Bibliography
+[Package Bibliography](https://github.com/mollyjones2023/Poli_Sci_390/blob/main/Bibliography.pdf)
