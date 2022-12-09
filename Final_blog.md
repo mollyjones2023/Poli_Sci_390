@@ -95,7 +95,7 @@ The distribution of park acreage throughout all the levels of the hardship index
 ## Conclusion
 There does not appear to be that strong of a relationship of the locations of affordable housing and parks with social and economic inequality in the city from the variables I explored. More affordable housing units seem to tend to be in areas with more overcrowding, there are less affordable units and parks in areas farther South in Chicago, and the type of housing differs in neighborhoods with different indexes of hardship. More exploration will have to be done to help answer my question, but these visualizations can provide a base to understand the distribution of affordable housing and parks in Chicago.
 
-## Citations
+### Citations
 Rigolon, Alessandro and Jon Christensen. 2019. "Greening Without Gentrification". National Recreation and Park Association. 
 [https://www.nrpa.org/parks-recreation-magazine/2019/december/greening-without-gentrification/](https://www.nrpa.org/parks-recreation-magazine/2019/december/greening-without-gentrification/)
 
