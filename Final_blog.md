@@ -23,7 +23,7 @@ This first plot displays the distri
 
 ![senior housing units plot](images/senior_units.png)
 ![senior units and parks plot](images/senior_units_acres.png)
-![seniors and parks plot](images/senior_units_acres.png)
+![seniors and parks plot](images/acres_senior.png)
 
 ![units and crowded housing plot](images/crowd_units.png)
 ![parks and crowded housing plot](images/crowd_parks.png)
